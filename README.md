@@ -2,7 +2,7 @@
 
 
 - 🔥 I’m currently studying at Trybe 
-- 🌱 I’m currently learning JS, HTML, CSS, React
+- 🌱 I’m currently learning JS, HTML, CSS, React, Redux, Context API, React Hooks
 - 📫 How to reach me: lucas_manete@hotmail.com
 - 😄 Pronouns: ele/dele
 
