@@ -1,10 +1,5 @@
 ### Hi there 👋 I'm Lucas!
 
-
-- 🔥 I’m currently working at CoachingTech
-- 🌱 I’m currently learning TypeScript, POO, MongoDB, C#
-- 📫 How to reach me: lucas.manete2403@gmail.com
-
 ##
 
  <div>
